@@ -48,3 +48,4 @@ With a strong passion for continuous learning, I stay up-to-date with industry t
 - Google Cloud
 
 Feel free to connect with me on GitHub and explore my projects!
+Gmail: davidadewale151@gmail.com
