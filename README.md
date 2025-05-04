@@ -3,6 +3,9 @@
 Highly motivated and detail-oriented developer with 3+ years of professional experience in building innovative, scalable, and modern solutions. Proficient in mobile and web development, with expertise in:
 
 - *Cross-platform development*: React Native, Expo
+- React
+- node.js
+  
 
 With a strong passion for continuous learning, I stay up-to-date with industry trends and best practices. I'm excited to collaborate on projects that push the boundaries of technology.
 
